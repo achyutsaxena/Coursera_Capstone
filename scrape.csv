@@ -1,2161 +1,722 @@
-PostalCode,Borough,Neighborhood
+PostalCode,Borough,Neighborhood
+,,
 "M1A
-","M1A
-","M1A
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M2A
-","M2A
-","M2A
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M3A
-","M3A
-","M3A
-"
-"North York
 ","North York
-","North York
-"
-"Parkwoods
 ","Parkwoods
-","Parkwoods
-"
+"
 "M4A
-","M4A
-","M4A
-"
-"North York
 ","North York
-","North York
-"
-"Victoria Village
 ","Victoria Village
-","Victoria Village
-"
+"
 "M5A
-","M5A
-","M5A
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"Regent Park / Harbourfront
 ","Regent Park / Harbourfront
-","Regent Park / Harbourfront
-"
+"
 "M6A
-","M6A
-","M6A
-"
-"North York
 ","North York
-","North York
-"
-"Lawrence Manor / Lawrence Heights
 ","Lawrence Manor / Lawrence Heights
-","Lawrence Manor / Lawrence Heights
-"
+"
 "M7A
-","M7A
-","M7A
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"Queen's Park / Ontario Provincial Government
 ","Queen's Park / Ontario Provincial Government
-","Queen's Park / Ontario Provincial Government
-"
+"
 "M8A
-","M8A
-","M8A
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9A
-","M9A
-","M9A
-"
-"Etobicoke
 ","Etobicoke
-","Etobicoke
-"
-"Islington Avenue
 ","Islington Avenue
-","Islington Avenue
-"
+"
 "M1B
-","M1B
-","M1B
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Malvern / Rouge
 ","Malvern / Rouge
-","Malvern / Rouge
-"
+"
 "M2B
-","M2B
-","M2B
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M3B
-","M3B
-","M3B
-"
-"North York
 ","North York
-","North York
-"
-"Don Mills
 ","Don Mills
-","Don Mills
-"
+"
 "M4B
-","M4B
-","M4B
-"
-"East York
 ","East York
-","East York
-"
-"Parkview Hill / Woodbine Gardens
 ","Parkview Hill / Woodbine Gardens
-","Parkview Hill / Woodbine Gardens
-"
+"
 "M5B
-","M5B
-","M5B
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"Garden District / Ryerson
 ","Garden District / Ryerson
-","Garden District / Ryerson
-"
+"
 "M6B
-","M6B
-","M6B
-"
-"North York
 ","North York
-","North York
-"
-"Glencairn
 ","Glencairn
-","Glencairn
-"
+"
 "M7B
-","M7B
-","M7B
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8B
-","M8B
-","M8B
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9B
-","M9B
-","M9B
-"
-"Etobicoke
 ","Etobicoke
-","Etobicoke
-"
-"West Deane Park / Princess Gardens / Martin Grove / Islington / Cloverdale
 ","West Deane Park / Princess Gardens / Martin Grove / Islington / Cloverdale
-","West Deane Park / Princess Gardens / Martin Grove / Islington / Cloverdale
-"
+"
 "M1C
-","M1C
-","M1C
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Rouge Hill / Port Union / Highland Creek
 ","Rouge Hill / Port Union / Highland Creek
-","Rouge Hill / Port Union / Highland Creek
-"
+"
 "M2C
-","M2C
-","M2C
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M3C
-","M3C
-","M3C
-"
-"North York
 ","North York
-","North York
-"
-"Don Mills
 ","Don Mills
-","Don Mills
-"
+"
 "M4C
-","M4C
-","M4C
-"
-"East York
 ","East York
-","East York
-"
-"Woodbine Heights
 ","Woodbine Heights
-","Woodbine Heights
-"
+"
 "M5C
-","M5C
-","M5C
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"St. James Town
 ","St. James Town
-","St. James Town
-"
+"
 "M6C
-","M6C
-","M6C
-"
-"York
 ","York
-","York
-"
-"Humewood-Cedarvale
 ","Humewood-Cedarvale
-","Humewood-Cedarvale
-"
+"
 "M7C
-","M7C
-","M7C
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8C
-","M8C
-","M8C
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9C
-","M9C
-","M9C
-"
-"Etobicoke
 ","Etobicoke
-","Etobicoke
-"
-"Eringate / Bloordale Gardens / Old Burnhamthorpe / Markland Wood
 ","Eringate / Bloordale Gardens / Old Burnhamthorpe / Markland Wood
-","Eringate / Bloordale Gardens / Old Burnhamthorpe / Markland Wood
-"
+"
 "M1E
-","M1E
-","M1E
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Guildwood / Morningside / West Hill
 ","Guildwood / Morningside / West Hill
-","Guildwood / Morningside / West Hill
-"
+"
 "M2E
-","M2E
-","M2E
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M3E
-","M3E
-","M3E
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M4E
-","M4E
-","M4E
-"
-"East Toronto
 ","East Toronto
-","East Toronto
-"
-"The Beaches
 ","The Beaches
-","The Beaches
-"
+"
 "M5E
-","M5E
-","M5E
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"Berczy Park
 ","Berczy Park
-","Berczy Park
-"
+"
 "M6E
-","M6E
-","M6E
-"
-"York
 ","York
-","York
-"
-"Caledonia-Fairbanks
 ","Caledonia-Fairbanks
-","Caledonia-Fairbanks
-"
+"
 "M7E
-","M7E
-","M7E
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8E
-","M8E
-","M8E
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9E
-","M9E
-","M9E
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M1G
-","M1G
-","M1G
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Woburn
 ","Woburn
-","Woburn
-"
+"
 "M2G
-","M2G
-","M2G
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M3G
-","M3G
-","M3G
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M4G
-","M4G
-","M4G
-"
-"East York
 ","East York
-","East York
-"
-"Leaside
 ","Leaside
-","Leaside
-"
+"
 "M5G
-","M5G
-","M5G
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"Central Bay Street
 ","Central Bay Street
-","Central Bay Street
-"
+"
 "M6G
-","M6G
-","M6G
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"Christie
 ","Christie
-","Christie
-"
+"
 "M7G
-","M7G
-","M7G
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8G
-","M8G
-","M8G
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9G
-","M9G
-","M9G
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M1H
-","M1H
-","M1H
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Cedarbrae
 ","Cedarbrae
-","Cedarbrae
-"
+"
 "M2H
-","M2H
-","M2H
-"
-"North York
 ","North York
-","North York
-"
-"Hillcrest Village
 ","Hillcrest Village
-","Hillcrest Village
-"
+"
 "M3H
-","M3H
-","M3H
-"
-"North York
 ","North York
-","North York
-"
-"Bathurst Manor / Wilson Heights / Downsview North
 ","Bathurst Manor / Wilson Heights / Downsview North
-","Bathurst Manor / Wilson Heights / Downsview North
-"
+"
 "M4H
-","M4H
-","M4H
-"
-"East York
 ","East York
-","East York
-"
-"Thorncliffe Park
 ","Thorncliffe Park
-","Thorncliffe Park
-"
+"
 "M5H
-","M5H
-","M5H
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"Richmond / Adelaide / King
 ","Richmond / Adelaide / King
-","Richmond / Adelaide / King
-"
+"
 "M6H
-","M6H
-","M6H
-"
-"West Toronto
 ","West Toronto
-","West Toronto
-"
-"Dufferin / Dovercourt Village
 ","Dufferin / Dovercourt Village
-","Dufferin / Dovercourt Village
-"
+"
 "M7H
-","M7H
-","M7H
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8H
-","M8H
-","M8H
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9H
-","M9H
-","M9H
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M1J
-","M1J
-","M1J
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Scarborough Village
 ","Scarborough Village
-","Scarborough Village
-"
+"
 "M2J
-","M2J
-","M2J
-"
-"North York
 ","North York
-","North York
-"
-"Fairview / Henry Farm / Oriole
 ","Fairview / Henry Farm / Oriole
-","Fairview / Henry Farm / Oriole
-"
+"
 "M3J
-","M3J
-","M3J
-"
-"North York
 ","North York
-","North York
-"
-"Northwood Park / York University
 ","Northwood Park / York University
-","Northwood Park / York University
-"
+"
 "M4J
-","M4J
-","M4J
-"
-"East York
 ","East York
-","East York
-"
-"East Toronto
 ","East Toronto
-","East Toronto
-"
+"
 "M5J
-","M5J
-","M5J
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"Harbourfront East / Union Station / Toronto Islands
 ","Harbourfront East / Union Station / Toronto Islands
-","Harbourfront East / Union Station / Toronto Islands
-"
+"
 "M6J
-","M6J
-","M6J
-"
-"West Toronto
 ","West Toronto
-","West Toronto
-"
-"Little Portugal / Trinity
 ","Little Portugal / Trinity
-","Little Portugal / Trinity
-"
+"
 "M7J
-","M7J
-","M7J
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8J
-","M8J
-","M8J
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9J
-","M9J
-","M9J
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M1K
-","M1K
-","M1K
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Kennedy Park / Ionview / East Birchmount Park
 ","Kennedy Park / Ionview / East Birchmount Park
-","Kennedy Park / Ionview / East Birchmount Park
-"
+"
 "M2K
-","M2K
-","M2K
-"
-"North York
 ","North York
-","North York
-"
-"Bayview Village
 ","Bayview Village
-","Bayview Village
-"
+"
 "M3K
-","M3K
-","M3K
-"
-"North York
 ","North York
-","North York
-"
-"Downsview
 ","Downsview
-","Downsview
-"
+"
 "M4K
-","M4K
-","M4K
-"
-"East Toronto
 ","East Toronto
-","East Toronto
-"
-"The Danforth West / Riverdale
 ","The Danforth West / Riverdale
-","The Danforth West / Riverdale
-"
+"
 "M5K
-","M5K
-","M5K
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"Toronto Dominion Centre / Design Exchange
 ","Toronto Dominion Centre / Design Exchange
-","Toronto Dominion Centre / Design Exchange
-"
+"
 "M6K
-","M6K
-","M6K
-"
-"West Toronto
 ","West Toronto
-","West Toronto
-"
-"Brockton / Parkdale Village / Exhibition Place
 ","Brockton / Parkdale Village / Exhibition Place
-","Brockton / Parkdale Village / Exhibition Place
-"
+"
 "M7K
-","M7K
-","M7K
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8K
-","M8K
-","M8K
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9K
-","M9K
-","M9K
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M1L
-","M1L
-","M1L
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Golden Mile / Clairlea / Oakridge
 ","Golden Mile / Clairlea / Oakridge
-","Golden Mile / Clairlea / Oakridge
-"
+"
 "M2L
-","M2L
-","M2L
-"
-"North York
 ","North York
-","North York
-"
-"York Mills / Silver Hills
 ","York Mills / Silver Hills
-","York Mills / Silver Hills
-"
+"
 "M3L
-","M3L
-","M3L
-"
-"North York
 ","North York
-","North York
-"
-"Downsview
 ","Downsview
-","Downsview
-"
+"
 "M4L
-","M4L
-","M4L
-"
-"East Toronto
 ","East Toronto
-","East Toronto
-"
-"India Bazaar / The Beaches West
 ","India Bazaar / The Beaches West
-","India Bazaar / The Beaches West
-"
+"
 "M5L
-","M5L
-","M5L
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"Commerce Court / Victoria Hotel
 ","Commerce Court / Victoria Hotel
-","Commerce Court / Victoria Hotel
-"
+"
 "M6L
-","M6L
-","M6L
-"
-"North York
 ","North York
-","North York
-"
-"North Park / Maple Leaf Park / Upwood Park
 ","North Park / Maple Leaf Park / Upwood Park
-","North Park / Maple Leaf Park / Upwood Park
-"
+"
 "M7L
-","M7L
-","M7L
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8L
-","M8L
-","M8L
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9L
-","M9L
-","M9L
-"
-"North York
 ","North York
-","North York
-"
-"Humber Summit
 ","Humber Summit
-","Humber Summit
-"
+"
 "M1M
-","M1M
-","M1M
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Cliffside / Cliffcrest / Scarborough Village West
 ","Cliffside / Cliffcrest / Scarborough Village West
-","Cliffside / Cliffcrest / Scarborough Village West
-"
+"
 "M2M
-","M2M
-","M2M
-"
-"North York
 ","North York
-","North York
-"
-"Willowdale / Newtonbrook
 ","Willowdale / Newtonbrook
-","Willowdale / Newtonbrook
-"
+"
 "M3M
-","M3M
-","M3M
-"
-"North York
 ","North York
-","North York
-"
-"Downsview
 ","Downsview
-","Downsview
-"
+"
 "M4M
-","M4M
-","M4M
-"
-"East Toronto
 ","East Toronto
-","East Toronto
-"
-"Studio District
 ","Studio District
-","Studio District
-"
+"
 "M5M
-","M5M
-","M5M
-"
-"North York
 ","North York
-","North York
-"
-"Bedford Park / Lawrence Manor East
 ","Bedford Park / Lawrence Manor East
-","Bedford Park / Lawrence Manor East
-"
+"
 "M6M
-","M6M
-","M6M
-"
-"York
 ","York
-","York
-"
-"Del Ray / Mount Dennis / Keelsdale and Silverthorn
 ","Del Ray / Mount Dennis / Keelsdale and Silverthorn
-","Del Ray / Mount Dennis / Keelsdale and Silverthorn
-"
+"
 "M7M
-","M7M
-","M7M
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8M
-","M8M
-","M8M
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9M
-","M9M
-","M9M
-"
-"North York
 ","North York
-","North York
-"
-"Humberlea / Emery
 ","Humberlea / Emery
-","Humberlea / Emery
-"
+"
 "M1N
-","M1N
-","M1N
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Birch Cliff / Cliffside West
 ","Birch Cliff / Cliffside West
-","Birch Cliff / Cliffside West
-"
+"
 "M2N
-","M2N
-","M2N
-"
-"North York
 ","North York
-","North York
-"
-"Willowdale
 ","Willowdale
-","Willowdale
-"
+"
 "M3N
-","M3N
-","M3N
-"
-"North York
 ","North York
-","North York
-"
-"Downsview
 ","Downsview
-","Downsview
-"
+"
 "M4N
-","M4N
-","M4N
-"
-"Central Toronto
 ","Central Toronto
-","Central Toronto
-"
-"Lawrence Park
 ","Lawrence Park
-","Lawrence Park
-"
+"
 "M5N
-","M5N
-","M5N
-"
-"Central Toronto
 ","Central Toronto
-","Central Toronto
-"
-"Roselawn
 ","Roselawn
-","Roselawn
-"
+"
 "M6N
-","M6N
-","M6N
-"
-"York
 ","York
-","York
-"
-"Runnymede / The Junction North
 ","Runnymede / The Junction North
-","Runnymede / The Junction North
-"
+"
 "M7N
-","M7N
-","M7N
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8N
-","M8N
-","M8N
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9N
-","M9N
-","M9N
-"
-"York
 ","York
-","York
-"
-"Weston
 ","Weston
-","Weston
-"
+"
 "M1P
-","M1P
-","M1P
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Dorset Park / Wexford Heights / Scarborough Town Centre
 ","Dorset Park / Wexford Heights / Scarborough Town Centre
-","Dorset Park / Wexford Heights / Scarborough Town Centre
-"
+"
 "M2P
-","M2P
-","M2P
-"
-"North York
 ","North York
-","North York
-"
-"York Mills West
 ","York Mills West
-","York Mills West
-"
+"
 "M3P
-","M3P
-","M3P
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M4P
-","M4P
-","M4P
-"
-"Central Toronto
 ","Central Toronto
-","Central Toronto
-"
-"Davisville North
 ","Davisville North
-","Davisville North
-"
+"
 "M5P
-","M5P
-","M5P
-"
-"Central Toronto
 ","Central Toronto
-","Central Toronto
-"
-"Forest Hill North & West
 ","Forest Hill North & West
-","Forest Hill North & West
-"
+"
 "M6P
-","M6P
-","M6P
-"
-"West Toronto
 ","West Toronto
-","West Toronto
-"
-"High Park / The Junction South
 ","High Park / The Junction South
-","High Park / The Junction South
-"
+"
 "M7P
-","M7P
-","M7P
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8P
-","M8P
-","M8P
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9P
-","M9P
-","M9P
-"
-"Etobicoke
 ","Etobicoke
-","Etobicoke
-"
-"Westmount
 ","Westmount
-","Westmount
-"
+"
 "M1R
-","M1R
-","M1R
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Wexford / Maryvale
 ","Wexford / Maryvale
-","Wexford / Maryvale
-"
+"
 "M2R
-","M2R
-","M2R
-"
-"North York
 ","North York
-","North York
-"
-"Willowdale
 ","Willowdale
-","Willowdale
-"
+"
 "M3R
-","M3R
-","M3R
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M4R
-","M4R
-","M4R
-"
-"Central Toronto
 ","Central Toronto
-","Central Toronto
-"
-"North Toronto West
 ","North Toronto West
-","North Toronto West
-"
+"
 "M5R
-","M5R
-","M5R
-"
-"Central Toronto
 ","Central Toronto
-","Central Toronto
-"
-"The Annex / North Midtown / Yorkville
 ","The Annex / North Midtown / Yorkville
-","The Annex / North Midtown / Yorkville
-"
+"
 "M6R
-","M6R
-","M6R
-"
-"West Toronto
 ","West Toronto
-","West Toronto
-"
-"Parkdale / Roncesvalles
 ","Parkdale / Roncesvalles
-","Parkdale / Roncesvalles
-"
+"
 "M7R
-","M7R
-","M7R
-"
-"Mississauga
 ","Mississauga
-","Mississauga
-"
-"Canada Post Gateway Processing Centre
 ","Canada Post Gateway Processing Centre
-","Canada Post Gateway Processing Centre
-"
+"
 "M8R
-","M8R
-","M8R
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9R
-","M9R
-","M9R
-"
-"Etobicoke
 ","Etobicoke
-","Etobicoke
-"
-"Kingsview Village / St. Phillips / Martin Grove Gardens / Richview Gardens
 ","Kingsview Village / St. Phillips / Martin Grove Gardens / Richview Gardens
-","Kingsview Village / St. Phillips / Martin Grove Gardens / Richview Gardens
-"
+"
 "M1S
-","M1S
-","M1S
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Agincourt
 ","Agincourt
-","Agincourt
-"
+"
 "M2S
-","M2S
-","M2S
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M3S
-","M3S
-","M3S
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M4S
-","M4S
-","M4S
-"
-"Central Toronto
 ","Central Toronto
-","Central Toronto
-"
-"Davisville
 ","Davisville
-","Davisville
-"
+"
 "M5S
-","M5S
-","M5S
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"University of Toronto / Harbord
 ","University of Toronto / Harbord
-","University of Toronto / Harbord
-"
+"
 "M6S
-","M6S
-","M6S
-"
-"West Toronto
 ","West Toronto
-","West Toronto
-"
-"Runnymede / Swansea
 ","Runnymede / Swansea
-","Runnymede / Swansea
-"
+"
 "M7S
-","M7S
-","M7S
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8S
-","M8S
-","M8S
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9S
-","M9S
-","M9S
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M1T
-","M1T
-","M1T
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Clarks Corners / Tam O'Shanter / Sullivan
 ","Clarks Corners / Tam O'Shanter / Sullivan
-","Clarks Corners / Tam O'Shanter / Sullivan
-"
+"
 "M2T
-","M2T
-","M2T
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M3T
-","M3T
-","M3T
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M4T
-","M4T
-","M4T
-"
-"Central Toronto
 ","Central Toronto
-","Central Toronto
-"
-"Moore Park / Summerhill East
 ","Moore Park / Summerhill East
-","Moore Park / Summerhill East
-"
+"
 "M5T
-","M5T
-","M5T
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"Kensington Market / Chinatown / Grange Park
 ","Kensington Market / Chinatown / Grange Park
-","Kensington Market / Chinatown / Grange Park
-"
+"
 "M6T
-","M6T
-","M6T
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M7T
-","M7T
-","M7T
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8T
-","M8T
-","M8T
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M9T
-","M9T
-","M9T
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M1V
-","M1V
-","M1V
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Milliken / Agincourt North / Steeles East / L'Amoreaux East
 ","Milliken / Agincourt North / Steeles East / L'Amoreaux East
-","Milliken / Agincourt North / Steeles East / L'Amoreaux East
-"
+"
 "M2V
-","M2V
-","M2V
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M3V
-","M3V
-","M3V
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M4V
-","M4V
-","M4V
-"
-"Central Toronto
 ","Central Toronto
-","Central Toronto
-"
-"Summerhill West / Rathnelly / South Hill / Forest Hill SE / Deer Park
 ","Summerhill West / Rathnelly / South Hill / Forest Hill SE / Deer Park
-","Summerhill West / Rathnelly / South Hill / Forest Hill SE / Deer Park
-"
+"
 "M5V
-","M5V
-","M5V
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"CN Tower / King and Spadina / Railway Lands / Harbourfront West / Bathurst Quay / South Niagara / Island airport
 ","CN Tower / King and Spadina / Railway Lands / Harbourfront West / Bathurst Quay / South Niagara / Island airport
-","CN Tower / King and Spadina / Railway Lands / Harbourfront West / Bathurst Quay / South Niagara / Island airport
-"
+"
 "M6V
-","M6V
-","M6V
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M7V
-","M7V
-","M7V
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8V
-","M8V
-","M8V
-"
-"Etobicoke
 ","Etobicoke
-","Etobicoke
-"
-"New Toronto / Mimico South / Humber Bay Shores
 ","New Toronto / Mimico South / Humber Bay Shores
-","New Toronto / Mimico South / Humber Bay Shores
-"
+"
 "M9V
-","M9V
-","M9V
-"
-"Etobicoke
 ","Etobicoke
-","Etobicoke
-"
-"South Steeles / Silverstone / Humbergate / Jamestown / Mount Olive / Beaumond Heights / Thistletown / Albion Gardens
 ","South Steeles / Silverstone / Humbergate / Jamestown / Mount Olive / Beaumond Heights / Thistletown / Albion Gardens
-","South Steeles / Silverstone / Humbergate / Jamestown / Mount Olive / Beaumond Heights / Thistletown / Albion Gardens
-"
+"
 "M1W
-","M1W
-","M1W
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Steeles West / L'Amoreaux West
 ","Steeles West / L'Amoreaux West
-","Steeles West / L'Amoreaux West
-"
+"
 "M2W
-","M2W
-","M2W
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M3W
-","M3W
-","M3W
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M4W
-","M4W
-","M4W
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"Rosedale
 ","Rosedale
-","Rosedale
-"
+"
 "M5W
-","M5W
-","M5W
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"Stn A PO Boxes
 ","Stn A PO Boxes
-","Stn A PO Boxes
-"
+"
 "M6W
-","M6W
-","M6W
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M7W
-","M7W
-","M7W
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8W
-","M8W
-","M8W
-"
-"Etobicoke
 ","Etobicoke
-","Etobicoke
-"
-"Alderwood / Long Branch
 ","Alderwood / Long Branch
-","Alderwood / Long Branch
-"
+"
 "M9W
-","M9W
-","M9W
-"
-"Etobicoke
 ","Etobicoke
-","Etobicoke
-"
-"Northwest
 ","Northwest
-","Northwest
-"
+"
 "M1X
-","M1X
-","M1X
-"
-"Scarborough
 ","Scarborough
-","Scarborough
-"
-"Upper Rouge
 ","Upper Rouge
-","Upper Rouge
-"
+"
 "M2X
-","M2X
-","M2X
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M3X
-","M3X
-","M3X
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M4X
-","M4X
-","M4X
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"St. James Town / Cabbagetown
 ","St. James Town / Cabbagetown
-","St. James Town / Cabbagetown
-"
+"
 "M5X
-","M5X
-","M5X
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"First Canadian Place / Underground city
 ","First Canadian Place / Underground city
-","First Canadian Place / Underground city
-"
+"
 "M6X
-","M6X
-","M6X
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M7X
-","M7X
-","M7X
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8X
-","M8X
-","M8X
-"
-"Etobicoke
 ","Etobicoke
-","Etobicoke
-"
-"The Kingsway / Montgomery Road  / Old Mill North
 ","The Kingsway / Montgomery Road  / Old Mill North
-","The Kingsway / Montgomery Road  / Old Mill North
-"
+"
 "M9X
-","M9X
-","M9X
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M1Y
-","M1Y
-","M1Y
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M2Y
-","M2Y
-","M2Y
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M3Y
-","M3Y
-","M3Y
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M4Y
-","M4Y
-","M4Y
-"
-"Downtown Toronto
 ","Downtown Toronto
-","Downtown Toronto
-"
-"Church and Wellesley
 ","Church and Wellesley
-","Church and Wellesley
-"
+"
 "M5Y
-","M5Y
-","M5Y
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M6Y
-","M6Y
-","M6Y
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M7Y
-","M7Y
-","M7Y
-"
-"East Toronto
 ","East Toronto
-","East Toronto
-"
-"Business reply mail Processing Centre
 ","Business reply mail Processing Centre
-","Business reply mail Processing Centre
-"
+"
 "M8Y
-","M8Y
-","M8Y
-"
-"Etobicoke
 ","Etobicoke
-","Etobicoke
-"
-"Old Mill South / King's Mill Park / Sunnylea / Humber Bay / Mimico NE / The Queensway East / Royal York South East / Kingsway Park South East
 ","Old Mill South / King's Mill Park / Sunnylea / Humber Bay / Mimico NE / The Queensway East / Royal York South East / Kingsway Park South East
-","Old Mill South / King's Mill Park / Sunnylea / Humber Bay / Mimico NE / The Queensway East / Royal York South East / Kingsway Park South East
-"
+"
 "M9Y
-","M9Y
-","M9Y
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M1Z
-","M1Z
-","M1Z
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M2Z
-","M2Z
-","M2Z
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M3Z
-","M3Z
-","M3Z
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M4Z
-","M4Z
-","M4Z
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M5Z
-","M5Z
-","M5Z
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M6Z
-","M6Z
-","M6Z
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M7Z
-","M7Z
-","M7Z
-"
-"Not assigned
 ","Not assigned
-","Not assigned
-"
+","
 "
-","
-","
-"
 "M8Z
-","M8Z
-","M8Z
-"
-"Etobicoke
 ","Etobicoke
-","Etobicoke
-"
-"Mimico NW / The Queensway West / South of Bloor / Kingsway Park South West / Royal York South West
 ","Mimico NW / The Queensway West / South of Bloor / Kingsway Park South West / Royal York South West
-","Mimico NW / The Queensway West / South of Bloor / Kingsway Park South West / Royal York South West
-"
-"M9Z
-","M9Z
-","M9Z
-"
-"Not assigned
-","Not assigned
-","Not assigned
-"
 "
+"M9Z
+","Not assigned
 ","
-","
-"
+"
